@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BuisnessBooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TopNews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-testing-master/unit/FromFutureExampleRxJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-testing-master/unit/RxJavaTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-testing-master/unit/fromPublisherRxJava" vcs="Git" />
+  </component>
+</project>
